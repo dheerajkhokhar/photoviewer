@@ -38,6 +38,7 @@
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
                 android:src="@android:drawable/ic_menu_close_clear_cancel"
+                android:tint="#ffffff"
                 android:padding="8dp"
                 android:text="Close" />
 
